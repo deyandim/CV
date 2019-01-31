@@ -1,1 +1,1 @@
-Deyan Dimov CV.
+Deyan Dimov CV in HTML format.
